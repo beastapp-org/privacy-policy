@@ -1,4 +1,4 @@
-Privacy Policy
+Privacy Policy and the term of use
 
 Effective Date: [04/21/2025]
 
