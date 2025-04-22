@@ -2,11 +2,11 @@ Privacy Policy
 
 Effective Date: [04/21/2025]
 
-1. Introduction
+✅ 1. Introduction
 
 We are committed to protecting your privacy. This Privacy Policy explains how beastapp ("we", "our", or "us") collects, uses, and protects your personal information. By using the App, you agree to this Privacy Policy.
 
-2. Information We Collect
+✅ 2. Information We Collect
 
 Personal Information: Name, email address, phone number.
 
@@ -22,7 +22,7 @@ Third-Party Data: Information received through external login providers such as 
 
 Payment Info: Processed securely through third-party services. We do not store payment data on our servers.
 
-3. How We Use Your Information
+✅ 3. How We Use Your Information
 
 Provide and personalize app services and user experience.
 
@@ -32,7 +32,7 @@ Prevent fraud, abuse, and maintain the app’s security and integrity.
 
 Comply with legal and regulatory obligations.
 
-4. Sharing Your Data
+✅ 4. Sharing Your Data
 
 Service providers that assist in our operations (e.g., cloud storage, analytics).
 
@@ -40,35 +40,35 @@ Authorities when required by law or legal proceedings.
 
 Third parties in the event of a business transfer or acquisition.
 
-5. User-Generated Content
+✅ 5. User-Generated Content
 
 All content you post, upload, or transmit via the app is your responsibility. Visibility depends on your settings. We are not liable for misuse or abuse by other users.
 
-6. Cookies & Tracking Technologies
+✅ 6. Cookies & Tracking Technologies
 
 We may use cookies and similar tracking tools to analyze traffic, personalize content, and manage sessions. You may disable cookies in your browser settings.
 
-7. Data Security
+✅ 7. Data Security
 
 We implement technical and organizational measures to protect your information. However, no digital transmission or storage is fully secure.
 
-8. Children's Privacy
+✅ 8. Children's Privacy
 
 This app is not intended for use by children under 13 years of age. We do not knowingly collect data from children under 13. If discovered, such data will be deleted immediately.
 
-9. Data Retention
+✅ 9. Data Retention
 
 We retain your personal information only for as long as necessary to fulfill the purposes outlined in this policy and comply with legal obligations.
 
-10. Your Rights
+✅ 10. Your Rights
 
 You have the right to access, correct, delete, or restrict how we use your data. Contact us at support@beastapp.com for any data-related concerns.
 
-11. Restrictions on Use of App Content
+✅ 11. Restrictions on Use of App Content
 
 You shall not sell, license, rent, distribute, reproduce, copy, or otherwise exploit any content, data, media, or material provided by the app unless you have received explicit written permission from us. This includes but is not limited to AI-generated results, video content, UI elements, and media streams.
 
-12. Advertising and Monetization
+✅ 12. Advertising and Monetization
 
 Our App may display third-party advertisements (such as from Google AdMob, Facebook Audience Network, or other ad networks). These ads help us fund and maintain the free services of the app. We may use both personalized and non-personalized ads based on your preferences and regional laws (e.g., GDPR or CCPA).
 
@@ -82,11 +82,11 @@ Opt-Out: You can manage ad preferences from your device settings. For Android, v
 
 We do not control the data practices of third-party advertisers. Please refer to their individual privacy policies for more details. By continuing to use our app, you agree to our use of advertising networks as described.
 
-13. Changes to This Policy
+✅ 13. Changes to This Policy
 
 We may update this Privacy Policy at any time. Changes will be posted in the app and/or on our website. Continued use of the app after changes means you accept the new policy.
 
-14. Contact Us
+✅ 14. Contact Us
 
 If you have questions or concerns about this policy, please reach out to support@beastapp.com.
 
