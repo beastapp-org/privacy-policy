@@ -82,7 +82,7 @@ We retain your personal data as long as necessary for operational, legal, and re
 
 ✅ 11. Your Rights
 
-You can access, update, or delete your personal data at any time by contacting us at supports@beastapp.com.
+You can access, update, or delete your personal data at any time by contacting us at [supports@beastapp.com](mailto:supports@beastapp.com).
 
 ✅ 12. Restrictions on Use of App Content
 
