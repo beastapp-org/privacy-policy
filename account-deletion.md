@@ -35,7 +35,7 @@ If you want to delete other data like images, videos, or posts:
 ## Can't access the app?
 
 If you're unable to delete your account through the app, contact us at:  
-📧 **supports@beastapp.org**
+📧 **[supports@beastapp.org](mailto:supports@beastapp.org)**
 
 Please include:
 - Your account ID (if available)  
