@@ -74,7 +74,7 @@ Remove the content and suspend or terminate the associated user account.
 
 Cooperate with law enforcement investigations as required by law.
 
-We encourage users to report any such content directly within the app or by emailing: 📧 [supports@beastapp.com](mailto:supports@beastapp.com).
+We encourage users to report any such content directly within the app or by emailing: 📧 [supports@beastapp.org](mailto:supports@beastapp.org).
 
 ✅ 10. Data Retention
 
@@ -82,7 +82,7 @@ We retain your personal data as long as necessary for operational, legal, and re
 
 ✅ 11. Your Rights
 
-You can access, update, or delete your personal data at any time by contacting us at [supports@beastapp.com](mailto:supports@beastapp.com).
+You can access, update, or delete your personal data at any time by contacting us at [supports@beastapp.org](mailto:supports@beastapp.org).
 
 ✅ 12. Restrictions on Use of App Content
 
@@ -162,4 +162,4 @@ You may revoke data sharing consent at any time in your app settings.
 
 ✅ 31. Contact Us
 
-For any questions or data-related issues, reach us at: 📧 [supports@beastapp.com](mailto:supports@beastapp.com)
+For any questions or data-related issues, reach us at: 📧 [supports@beastapp.org](mailto:supports@beastapp.org)
