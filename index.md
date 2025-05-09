@@ -206,4 +206,4 @@ We may update these Terms of Service periodically. It is your responsibility to 
 
 ✅ 23. Beta Features Some features of the App may be released as beta or experimental. These features may not be fully tested or stable and may be modified or removed at any time.
 
-✅ 24. Contact Us If you have any questions or concerns about these Terms, please contact us at: 📧 supports@beastapp.org
+✅ 24. Contact Us If you have any questions or concerns about these Terms, please contact us at: 📧 supports@beastapp.org.
