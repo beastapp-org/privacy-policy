@@ -1,0 +1,36 @@
+---
+title: Account and Data Deletion Request
+---
+
+# 🗑️ Request Account and Data Deletion
+
+If you wish to delete your account and all associated data, you can do so directly within the app.
+
+---
+
+## How to delete your account:
+
+1. Open the app
+2. Navigate to `Settings` section
+3. Tap **Delete Account**
+4. Confirm when prompted
+
+> ⚠️ This will permanently delete your profile, messages, saved content, and any related data.
+
+---
+
+## Can't access the app?
+
+If you're unable to delete your account through the app, contact us at:
+
+📧 **[supports@beastapp.com]**
+
+Please include:
+- Your account ID (if available)
+- The email or phone number associated with your account
+
+---
+
+## Questions?
+
+See our [Privacy Policy](https://beastapp-org.github.io/privacy-policy) or reach out to our support email for further information.
