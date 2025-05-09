@@ -1,12 +1,10 @@
 Privacy Policy
 
-Effective Date: 04/21/2025
-
-Updated Date: 05/08/2025
+Effective Date: 04/21/2025Updated Date: 05/08/2025
 
 ✅ 1. Introduction
 
-We are committed to protecting your privacy. This Privacy Policy explains how beastapp ("we", "our", or "us") collects, uses, and protects your personal information. By using the App, you agree to this Privacy Policy.
+We are committed to protecting your privacy. This Privacy Policy explains how beastapp (“we”, “our”, or “us”) collects, uses, and protects your personal information. By using the App, you agree to this Privacy Policy.
 
 ✅ 2. Information We Collect
 
@@ -62,90 +60,104 @@ We implement security measures to protect your data but no method is completely 
 
 We do not knowingly collect data from children under 13. If discovered, such data will be deleted.
 
-✅ 9. Data Retention
+✅ 9. Zero Tolerance for Child Sexual Abuse Material (CSAM)
+
+We have a zero-tolerance policy toward content that exploits or harms children, including Child Sexual Abuse Material (CSAM) and Child Sexual Abuse and Exploitation (CSAE). Any content or behavior involving such material is strictly prohibited.
+
+If we become aware of CSAM content, we will:
+
+Immediately report it to the appropriate legal authorities (e.g., NCMEC).
+
+Remove the content and suspend or terminate the associated user account.
+
+Cooperate with law enforcement investigations as required by law.
+
+We encourage users to report any such content directly within the app or by emailing: 📧 supports@beastapp.com.
+
+✅ 10. Data Retention
 
 We retain your personal data as long as necessary for operational, legal, and regulatory compliance purposes.
 
-✅ 10. Your Rights
+✅ 11. Your Rights
 
 You can access, update, or delete your personal data at any time by contacting us at supports@beastapp.com.
 
-✅ 11. Restrictions on Use of App Content
+✅ 12. Restrictions on Use of App Content
 
 You shall not sell, license, rent, distribute, reproduce, or exploit any content, data, or material provided by the app without explicit permission. This includes AI-generated results, videos, UI, and media.
 
-✅ 12. Advertising and Monetization
+✅ 13. Advertising and Monetization
 
 We use ad networks like Google AdMob or Meta to display ads.
 
-✅ 13. Ad Personalization Options
+✅ 14. Ad Personalization Options
 
 You may receive personalized ads based on app usage or location. You can manage preferences in your device settings.
 
-✅ 14. Opting Out of Tracking
+✅ 15. Opting Out of Tracking
 
-You can disable personalized ads and tracking through your device's ad settings panel.
+You can disable personalized ads and tracking through your device’s ad settings panel.
 
-✅ 15. Data Transfers Across Borders
+✅ 16. Data Transfers Across Borders
 
 Your data may be processed outside your country of residence. We take steps to ensure appropriate safeguards.
 
-✅ 16. Biometric and Sensitive Data
+✅ 17. Biometric and Sensitive Data
 
 We do not collect biometric or highly sensitive data without your explicit consent.
 
-✅ 17. In-App Purchase Data
+✅ 18. In-App Purchase Data
 
 All purchases are processed via secure third-party platforms. We do not store financial data.
 
-✅ 18. Push Notifications & Communications
+✅ 19. Push Notifications & Communications
 
 We may send you updates via push notifications or email. You can opt out in app settings.
 
-✅ 19. Analytics and Diagnostics
+✅ 20. Analytics and Diagnostics
 
 We use analytics tools to monitor performance and fix issues.
 
-✅ 20. Changes to Your Personal Info
+✅ 21. Changes to Your Personal Info
 
 You can edit your profile or contact support to update your data.
 
-✅ 21. Social Media Integrations
+✅ 22. Social Media Integrations
 
 When you link social accounts, certain data may be shared with those platforms.
 
-✅ 22. App Permissions Overview
+✅ 23. App Permissions Overview
 
 We request permissions for functions like camera, storage, and microphone. You can revoke these in device settings.
 
-✅ 23. User Consent
+✅ 24. User Consent
 
 By using the app, you consent to this privacy policy and its terms.
 
-✅ 24. Public Profiles & Discovery
+✅ 25. Public Profiles & Discovery
 
 Usernames and avatars may be visible publicly, based on your privacy settings.
 
-✅ 25. GDPR/CCPA Rights
+✅ 26. GDPR/CCPA Rights
 
 Residents of applicable regions have rights to access, delete, and control data. Contact us to exercise these rights.
 
-✅ 26. Data Breach Procedures
+✅ 27. Data Breach Procedures
 
 In the event of a data breach, users will be notified as required by law.
 
-✅ 27. Policy Change Notification
+✅ 28. Policy Change Notification
 
 We will notify users through app updates or emails when this policy changes.
 
-✅ 28. Third-Party Links and Services
+✅ 29. Third-Party Links and Services
 
 We are not responsible for data practices of external links or services accessed through our app.
 
-✅ 29. Revoking Consent
+✅ 30. Revoking Consent
 
 You may revoke data sharing consent at any time in your app settings.
 
-✅ 30. Contact Us
+✅ 31. Contact Us
 
 For any questions or data-related issues, reach us at: 📧 supports@beastapp.com
