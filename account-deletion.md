@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Account and Data Deletion"
+permalink: /account-deletion/
+---
+
+
 # 🗑️ Request Account and Data Deletion
 
 If you wish to delete your account and all associated data, you can do so directly within the app.
