@@ -10,4 +10,4 @@ permalink: /
 - [Terms of Service](/https://beastapp-org.github.io/privacy-policy/terms-of-use)
 - [Account and Data Deletion](/https://beastapp-org.github.io/privacy-policy/account-deletion/)
 
-For questions, contact [support@beastapp.org](mailto:support@beastapp.org)
+For questions, contact [supports@beastapp.org](mailto:supports@beastapp.org)
