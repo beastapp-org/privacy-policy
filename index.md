@@ -6,8 +6,8 @@ permalink: /
 
 # 📘 BeastApp Legal Center
 
-- [Privacy Policy](/https://beastapp-org.github.io/privacy-policy/policy/)
-- [Terms of Service](/https://beastapp-org.github.io/privacy-policy/terms-of-use)
-- [Account and Data Deletion](/https://beastapp-org.github.io/privacy-policy/account-deletion/)
+- [Privacy Policy](/https://docs.beastapp.org/policy)
+- [Terms of Service](/https://docs.beastapp.org/terms-of-use)
+- [Account and Data Deletion](/https://docs.beastapp.org/account-deletion)
 
 For questions, contact [supports@beastapp.org](mailto:supports@beastapp.org)
