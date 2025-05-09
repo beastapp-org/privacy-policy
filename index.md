@@ -2,6 +2,8 @@ Privacy Policy and the term of use
 
 Effective Date: [04/21/2025]
 
+Updated Date:[05/08/2025]
+
 ✅ 1. Introduction
 
 We are committed to protecting your privacy. This Privacy Policy explains how beastapp ("we", "our", or "us") collects, uses, and protects your personal information. By using the App, you agree to this Privacy Policy.
@@ -152,8 +154,7 @@ We may monitor conversations to improve service quality and safety.
 
 ✅ 11. Games and Interactive Content
 
-By engaging in games or interactive content offered by the App, you agree to follow all in-game rules. 
-Some content may involve user-submitted images or video features. You retain rights to your uploaded content, but we may use such content to personalize features or for promotional purposes if you agree.
+By engaging in games or interactive content offered by the App, you agree to follow all in-game rules. Some content may involve user-submitted images or video features. You retain rights to your uploaded content, but we may use such content to personalize features or for promotional purposes if you agree.
 
 ✅ 12. Notepad and Task Features
 
@@ -195,22 +196,14 @@ To the maximum extent permitted by law, we shall not be liable for any indirect,
 
 We may update these Terms of Service periodically. It is your responsibility to review them regularly. Continued use of the App means you accept the changes.
 
-✅ 19. Third-Party Services and APIs
-The App may integrate with third-party APIs and services (e.g., OpenAI, Firebase, Stripe, Google APIs, etc.). 
-We are not responsible for the data practices or content provided by these services. Use of third-party services is subject to their respective terms.
+✅ 19. Third-Party Services and APIs The App may integrate with third-party APIs and services (e.g., OpenAI, Firebase, Stripe, Google APIs, etc.). We are not responsible for the data practices or content provided by these services. Use of third-party services is subject to their respective terms.
 
-✅ 20. AI Disclaimer
-Our AI-powered features (e.g., chat, image generation, code generation, etc.) are powered by third-party models and may generate responses that are inaccurate, biased, or inappropriate. These outputs are not advice and should not be relied upon as professional or factual guidance.
+✅ 20. AI Disclaimer Our AI-powered features (e.g., chat, image generation, code generation, etc.) are powered by third-party models and may generate responses that are inaccurate, biased, or inappropriate. These outputs are not advice and should not be relied upon as professional or factual guidance.
 
-✅ 21. User Content and License
-By submitting content (text, images, voice, or video) to the App, you grant us a non-exclusive, worldwide, royalty-free license to use, store, and process the content solely for the purpose of delivering and improving the App’s functionality. You retain ownership of your content.
+✅ 21. User Content and License By submitting content (text, images, voice, or video) to the App, you grant us a non-exclusive, worldwide, royalty-free license to use, store, and process the content solely for the purpose of delivering and improving the App’s functionality. You retain ownership of your content.
 
-✅ 22. Children’s Use (COPPA/Underage Disclaimer)
-The App is not intended for children under 13 (or under the minimum legal age in your jurisdiction). If we become aware that a child has used the App without proper parental consent, we will take steps to delete any associated data.
+✅ 22. Children’s Use (COPPA/Underage Disclaimer) The App is not intended for children under 13 (or under the minimum legal age in your jurisdiction). If we become aware that a child has used the App without proper parental consent, we will take steps to delete any associated data.
 
-✅ 23. Beta Features
-Some features of the App may be released as beta or experimental. These features may not be fully tested or stable and may be modified or removed at any time.
+✅ 23. Beta Features Some features of the App may be released as beta or experimental. These features may not be fully tested or stable and may be modified or removed at any time.
 
-✅ 24. Contact Us
-If you have any questions or concerns about these Terms, please contact us at:
-📧 support@beastapp.com
+✅ 24. Contact Us If you have any questions or concerns about these Terms, please contact us at: 📧 supports@beastapp.com
